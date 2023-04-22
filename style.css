@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.header {
+    background-image: url(Images/Tech_News.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    padding-bottom: 44%;
+    padding-top: 5%;
+}
+
+#headerHeading {
+    margin-top: -31rem;
+    font-size: 80px;
+    margin-left: 5%;
+    margin-bottom: 5px;
+    color: #e6e6e6;
+}
+
+
+#headerPara {
+    box-sizing: border-box;
+    padding-right: 45%;
+    word-spacing: 10px;
+    margin-left: 80px;
+    font-size: 19px;
+    color: #e6e6e6;
+}
+
+#logo {
+    margin-left: 1rem;
+}
+
+#menuBar {
+    margin-top: -65px;
+    margin-right: 6rem;
+}
+
+#menuLinks {
+    color: #e7e7e7;
+    letter-spacing: 1px;
+    margin-left: 30rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+#aboutUs {
+    background-color: #ebebeb;
+}
